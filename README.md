@@ -5,10 +5,10 @@ A machine learning project to predict whether a customer will default on their c
 
 ## Performance Highlights
 
-- **Accuracy:** 99.96%  
-- **Precision:** 99.98%  
+- **Accuracy:** 99.90%  
+- **Precision:** 99.92%  
 - **Recall:** 99.97%  
-- **F1-Score:** 99.98%  
+- **F1-Score:** 99.95%  
 
 ## Features
 
